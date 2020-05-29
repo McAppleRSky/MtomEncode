@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15382841-0795-4bfe-892b-a4a58f99fd67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MtomEncode" />
+  </component>
+  <component name="ProjectId" id="1cZVPvOBNAKze1egfjzW8qkYqDs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MtomEncode" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MtomEncode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15382841-0795-4bfe-892b-a4a58f99fd67" name="Default Changelist" comment="" />
+      <created>1590736081541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590736081541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="444" key="Github.CreateGistDialog" timestamp="1590736928600">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="771" y="444" key="Github.CreateGistDialog/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736928600" />
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom" timestamp="1590736975375">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736975375" />
+    <state width="1878" height="281" key="GridCell.Tab.0.center" timestamp="1590736975375">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="281" key="GridCell.Tab.0.center/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736975375" />
+    <state width="1878" height="281" key="GridCell.Tab.0.left" timestamp="1590736975375">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="281" key="GridCell.Tab.0.left/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736975375" />
+    <state width="1878" height="281" key="GridCell.Tab.0.right" timestamp="1590736975375">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="281" key="GridCell.Tab.0.right/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736975375" />
+  </component>
+</project>
