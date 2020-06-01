@@ -1,19 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15382841-0795-4bfe-892b-a4a58f99fd67" name="Default Changelist" comment="" />
+    <list default="true" id="15382841-0795-4bfe-892b-a4a58f99fd67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleMailMtom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MsgTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MtomEncode" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MtomEncode" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MtomEncode" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MtomEncode" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MtomEncode" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MtomEncode" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MtomEncode" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cZVPvOBNAKze1egfjzW8qkYqDs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,6 +90,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../../repositories/MtomEncode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../repositories/MtomEncode" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="MtomEncode" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -75,25 +147,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="187" width="800" height="672" key="#Project_Structure" timestamp="1590739791436">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="555" y="187" width="800" height="672" key="#Project_Structure/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590739791436" />
+    <state x="743" y="270" width="424" height="506" key="FileChooserDialogImpl" timestamp="1590739188180">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="743" y="270" width="424" height="506" key="FileChooserDialogImpl/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590739188180" />
     <state x="771" y="444" key="Github.CreateGistDialog" timestamp="1590736928600">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="771" y="444" key="Github.CreateGistDialog/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736928600" />
-    <state width="1878" height="281" key="GridCell.Tab.0.bottom" timestamp="1590736975375">
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom" timestamp="1590743325893">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1878" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736975375" />
-    <state width="1878" height="281" key="GridCell.Tab.0.center" timestamp="1590736975375">
+    <state width="1878" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590743325893" />
+    <state width="1878" height="281" key="GridCell.Tab.0.center" timestamp="1590743325893">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1878" height="281" key="GridCell.Tab.0.center/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736975375" />
-    <state width="1878" height="281" key="GridCell.Tab.0.left" timestamp="1590736975375">
+    <state width="1878" height="281" key="GridCell.Tab.0.center/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590743325893" />
+    <state width="1878" height="281" key="GridCell.Tab.0.left" timestamp="1590743325893">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1878" height="281" key="GridCell.Tab.0.left/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736975375" />
-    <state width="1878" height="281" key="GridCell.Tab.0.right" timestamp="1590736975375">
+    <state width="1878" height="281" key="GridCell.Tab.0.left/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590743325893" />
+    <state width="1878" height="281" key="GridCell.Tab.0.right" timestamp="1590743325893">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
-    <state width="1878" height="281" key="GridCell.Tab.0.right/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590736975375" />
+    <state width="1878" height="281" key="GridCell.Tab.0.right/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590743325893" />
+    <state x="464" y="160" key="SettingsEditor" timestamp="1590738659513">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="464" y="160" key="SettingsEditor/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590738659513" />
+    <state x="643" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1591018837810">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="643" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1591018837810" />
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1590738643453">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="623" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1053/1920.0.1920.1080@0.0.1920.1053" timestamp="1590738643453" />
   </component>
 </project>
