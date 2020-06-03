@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MsgTest" tests="3" skipped="2" failures="0" errors="0" timestamp="2020-06-02T15:04:53" hostname="user1" time="0.144">
+<testsuite name="MsgTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-03T06:45:53" hostname="user1" time="0.009">
   <properties/>
-  <testcase name="testDeserializerMtom" classname="MsgTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="testStrMtom" classname="MsgTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="testDecodeMtom2Zip" classname="MsgTest" time="0.141"/>
+  <testcase name="testDecodeMtom2Zip" classname="MsgTest" time="0.009"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
